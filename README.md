@@ -1,3 +1,4 @@
+# FTP Client Server Program
 To use the server simply run the following in the terminal/ cmd prompt:
 
     python3 server.py
